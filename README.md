@@ -34,7 +34,7 @@ The purpose of this analysis is to utilize various machine learning methods to a
 
 #### Undersampling
 
-![Naive Rnadom Oversampling](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/Naive%20Rnadom%20Oversampling.png)
+![Undersampling](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png)
 
 * Balanced Accuracy Score
   * This algorithrm is roughly 54% accurate.
