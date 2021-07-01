@@ -8,26 +8,26 @@ The purpose of this analysis is to utilize various machine learning methods to a
 
 #### Naive Random Oversampling
 
-[link]
+![Naive Rnadom Oversampling](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/Naive%20Rnadom%20Oversampling.png)
 
 #### SMOTE Oversampling
 
-[link]
+![SMOTE](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png)
 
 #### Undersampling
 
-[link]
+![Naive Rnadom Oversampling](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/Naive%20Rnadom%20Oversampling.png)
 
 #### Combination Sampling (Over and Under)
 
-[link]
+![SMOTEENN](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.png)
 
 #### Balanced Random Forest Classifier
 
-[link]
+![Naive Rnadom Oversampling](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/Balanced%20Random%20Forest%20Classifier.png)
 
 #### Easy Ensemble AdaBoost Classifier
 
-[link]
+![Easy Ensemble AdaBoost Classifier](https://github.com/donovancai/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 
