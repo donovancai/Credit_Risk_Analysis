@@ -84,7 +84,7 @@ The purpose of this analysis is to utilize various machine learning methods to a
 * Recall Score
   * The recall (sensitivity) of this algorithrm is high at roughly 92%.
 
-### Summary
+## Summary
 
 All six models have relatively low precision rate, but this is not a bad thing necessarily. Low precision only means that more thorough and in-depth analysis will have to be conducted on more loans to determine whether they are high risk. 
 
